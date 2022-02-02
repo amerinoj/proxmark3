@@ -43,6 +43,7 @@ This project uses the changelog in accordance with [keepchangelog](http://keepac
  - Added new standalone mode `dankarmulti` -  select and run multiple standalone modes (@dankar)
 
 ## [crimson.4.14434][2021-09-18]
+ - Added new standalone mode amerinoj - read mifare classic, clone block0 into magic card and simulate (@amerinoj)
  - Fixed `hf mf staticnested` - flashmem / non loop now works (@horrordash)
  - Fixed `hf 15 restore` write command and `trace list -t 15` write command (@doegox)
  - Changed default standalone mode to LF_SAMYRUN (@iceman1001)
